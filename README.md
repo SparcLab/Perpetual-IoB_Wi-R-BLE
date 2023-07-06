@@ -1,8 +1,8 @@
 # WiR_BLE_Comparison
 Comparison of power consumption and battery lifetime for IoB nodes operating with WiR and Bluetooth protocols.
 
-**References for Sensing Energy Efficiency Survey
-**
+**References for Sensing Energy Efficiency Survey**
+
 [1] J. P. Uehlin, W. A. Smith, V. R. Pamula, S. I. Perlmutter, J. C.
 Rudell, and V. S. Sathe, “A 0.0023 mm2/ch. delta-encoded, time-division
 multiplexed mixed-signal ecog recording architecture with stimulus
