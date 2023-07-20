@@ -1,6 +1,25 @@
 # Perpetual IoB_Wi-R-BLE
 Comparison of power consumption and battery lifetime for IoB nodes operating with WiR and Bluetooth protocols.
 
+**EQS-HBC and Wi-R**
+
+[1] B. Chatterjee, P. Mohseni, and S. Sen, “Bioelectronic sensor nodes
+for the internet of bodies,” Annual Review of Biomedical Engineering,
+vol. 25, no. 1, p. null, 2023, pMID: 36913705. [Online]. Available:
+https://doi.org/10.1146/annurev-bioeng-110220-112448
+
+[2] S. Maity, M. He, M. Nath, D. Das, B. Chatterjee, and S. Sen,
+“Bio-physical modeling, characterization, and optimization of electro-
+quasistatic human body communication,” IEEE Transactions on Biomed-
+ical Engineering, vol. 66, no. 6, pp. 1791–1802, 2018
+
+[3] S. Maity et al., “On the safety of human body communication,” IEEE
+Transactions on Biomedical Engineering, pp. 1–1, 2020.
+
+[4] S. Sen, “Wi-r technology white paper,” Ixana, 2023.
+
+
+
 **References for Sensing Energy Efficiency Survey**
 
 [1] J. P. Uehlin, W. A. Smith, V. R. Pamula, S. I. Perlmutter, J. C.
