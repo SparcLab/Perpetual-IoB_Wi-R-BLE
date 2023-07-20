@@ -1,4 +1,4 @@
-# WiR_BLE_Comparison
+# Perpetual IoB_Wi-R-BLE
 Comparison of power consumption and battery lifetime for IoB nodes operating with WiR and Bluetooth protocols.
 
 **References for Sensing Energy Efficiency Survey**
